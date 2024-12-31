@@ -58,7 +58,7 @@ Phase 3: API Deployment ✓
 - Environment variables
 - CORS support
 
-### Known Issues
+### Known Issues and Future Work
 
 There are several critical issues that need attention:
 
